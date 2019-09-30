@@ -1,0 +1,15 @@
+ID: grammar1
+S ::= abS | ab | abA
+A ::= a | b
+
+ID: grammar2
+S ::= aS | bS | abA
+A ::= aB | bB | a | b
+B ::= bb
+
+ID: grammar3
+S ::= abA | bA
+A ::= bB | b
+B ::= aA | a
+
+ 

@@ -1,0 +1,8 @@
+ID: regex1
+(a|b)*ab(bb)*
+
+ID: regex2
+(a|b)*ab(aasbb)*
+
+ID: regex3
+(aa|bb)*ab(bb)*
